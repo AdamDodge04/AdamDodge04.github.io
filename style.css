@@ -19,6 +19,12 @@ body {
 	font-size: 2vw;
 }
 
+.cl {
+	display: block;
+	color: salmon;
+	font-size: 2vw;
+}
+
 .home{
 	color: salmon;
 	font-size: 2vw

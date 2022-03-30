@@ -2,9 +2,6 @@ body {
 	background-color: dimgray;
 }
 
-
-
-
 .h {
 	border: 3px solid black;
 	text-align: center;
@@ -20,14 +17,14 @@ body {
 }
 
 .cl {
-	display: block;
+	display: inline-block;
 	color: salmon;
 	font-size: 2vw;
 }
 
 .home{
 	color: salmon;
-	font-size: 2vw
+	font-size: 2vw;
 }
 
 #l {
@@ -71,6 +68,7 @@ p.class1 {
 #Big{
 	white-space: nowrap;
 	color: lightgray;
+	text-align: center;
 }
 
 li,p {
@@ -80,7 +78,7 @@ li,p {
 
 p.c2 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;
@@ -92,7 +90,7 @@ p.c2 {
 
 p.class3 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;
@@ -104,7 +102,7 @@ p.class3 {
 
 p.class4 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;
@@ -116,7 +114,7 @@ p.class4 {
 
 p.class5 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;
@@ -128,7 +126,7 @@ p.class5 {
 
 p.class6 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;
@@ -140,7 +138,7 @@ p.class6 {
 
 p.class7 {
 	display: inline-block;
-	width: 230px;
+	width: 17.98vw;
 	border: 2px solid #000000;
 	margin-bottom: 0px;
 	margin-top: -2px;

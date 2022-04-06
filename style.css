@@ -22,10 +22,18 @@ body {
 	font-size: 2vw;
 }
 
+
 .home{
 	color: salmon;
 	font-size: 2vw;
 }
+
+#minus,#plus,#zero {
+	display: inline-block;
+	margin: 15px;
+	font-size: 5vw;
+} 
+
 
 #l {
 	vertical-align: top;

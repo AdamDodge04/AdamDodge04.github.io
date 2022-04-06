@@ -28,11 +28,17 @@ body {
 	font-size: 2vw;
 }
 
-#minus,#plus,#zero {
+#minus,#plus,#zero,#minuss,#minusss,#divide,#pluss,#plusss,#times {
 	display: inline-block;
 	margin: 15px;
 	font-size: 5vw;
 } 
+
+#pass,#password {
+	display: block;
+	font-size: 2vw;
+	margin-bottom: 2vw;
+}
 
 
 #l {

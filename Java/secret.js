@@ -4,13 +4,15 @@ function secret() {
 	if (document.getElementById("password").value == "hello") {
 		
 	document.getElementById("pass").innerHTML = "ACCESS GRANTED"
+	document.getElementById("pass").style.color = "green";
+	window.location = "index.html"	
 		
 	}
 	
-	if (document.getElementById("password").value != "hello") {
+	else {
 		
-		document.getElementById("pass").innerHTML = "ACCESS DENIED"
-		
+		document.getElementById("pass").innerHTML = "ACCESS DENIED";
+		document.getElementById("pass").style.color = "red";
 	}
 	
 }

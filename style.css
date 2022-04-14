@@ -6,6 +6,19 @@ body {
 	color: lightgray;
 }
 
+#buttons {
+	display: block;
+	vertical-align: top;
+}
+
+#image {
+	width: 50vw
+}
+
+.button {
+	vartical-align: top;
+}
+
 .h {
 	border: 3px solid black;
 	text-align: center;

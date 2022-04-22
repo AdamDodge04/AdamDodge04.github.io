@@ -6,6 +6,10 @@ body {
 	color: lightgray;
 }
 
+#butt {
+	margin-top: 2vw;
+}
+
 #buttons {
 	display: block;
 	vertical-align: top;

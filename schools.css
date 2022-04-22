@@ -1,0 +1,43 @@
+
+.t {
+	display: inline-block;
+	text-align: center;
+	width: 11vw;
+	color: white;
+	margin-left: -0.4vw;
+	margin-top: 2vw;
+	margin-bottom: 2vw;
+	font-size: 1vw;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+#left {
+	padding-left: 7.6vw
+}
+
+#right {
+	padding-right: 7.6vw
+}
+
+#top {
+	background-color: #001489;
+}
+
+#image {
+	margin-top: 3vw;
+    padding-left: 10vw
+	
+}
+
+.b {
+	display: inline-block;
+	background-color: #001489;
+	color: white;
+	margin-left: 1vw;
+	padding: 0.5vw;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+#m {
+	margin-left: 50vw
+}

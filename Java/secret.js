@@ -1,7 +1,11 @@
 
+var enteredPass
+
+
+
 function secret() {	
-	
-	if (document.getElementById("password").value == "hello") {
+	enteredPass = document.getElementById("password").value
+	if (enteredPass == "hello") {
 		
 	document.getElementById("pass").innerHTML = "ACCESS GRANTED"
 	document.getElementById("pass").style.color = "green";
@@ -11,7 +15,7 @@ function secret() {
 	
 	else {
 		
-		document.getElementById("pass").innerHTML = "ACCESS DENIED";
+		document.getElementById("pass").innerHTML = "The password " + enteredPass + " was the wrong password.";
 		document.getElementById("pass").style.color = "red";
 	}
 	

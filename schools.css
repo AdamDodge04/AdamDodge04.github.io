@@ -25,19 +25,39 @@
 
 #image {
 	margin-top: 3vw;
-    padding-left: 10vw
+    padding-left: 10vw;
 	
 }
 
-.b {
-	display: inline-block;
-	background-color: #001489;
-	color: white;
-	margin-left: 1vw;
-	padding: 0.5vw;
+.pic {
+	vertical-align: center;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
 
-#m {
-	margin-left: 50vw
+.pic {
+	display: inline-block;
 }
+
+
+.y {
+	text-align: left;
+	display: inline-block
+}
+
+.title {
+	display: inline-block;
+	text-align: center;
+	align-content: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+
+.icons {
+	background-color: whitesmoke;
+}
+
+#lefter {
+	padding-left: 22vw
+}
+
+	
+	

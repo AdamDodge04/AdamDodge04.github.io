@@ -1,0 +1,35 @@
+#main {
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+}
+
+.top {
+	background-color: #303030;
+	color: #d6d6d6;
+	text-align: center;
+}
+
+.bar1 {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 1vw;
+}
+
+.icons {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 1.2vw;
+	margin-top: 1vw;
+}
+
+.mid {
+	text-align: center;
+	background-color: #fbfbfd;
+	color: #464648;
+}
+
+.new {
+	color: #bf4800;
+}
+
+
+

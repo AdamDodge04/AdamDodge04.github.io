@@ -76,6 +76,35 @@ h3 {
 	margin-left: 220px;		
 }
 
+#right {
+	border: 1px solid #000000;
+	width: 300px;
+	margin-left: 840px
+}
+
+.right1 {
+	text-align: center;
+	border: 1px solid #000000;
+}
+
+.right2 {
+	text-align: center;
+	border: 1px solid #000000;
+}
+
+#church {
+	margin-left: 3px
+}
+
+.right3 {
+	text-align: center;
+}
+
+.right4 {
+	border: 1px solid #000000;
+	text-align: center;
+}
+
 
 
 

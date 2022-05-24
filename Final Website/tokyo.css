@@ -1,3 +1,5 @@
+
+
 @import 
 url(https://fonts.googleapis.com/css?family=Exo+2:200i);
 
@@ -16,7 +18,7 @@ h2 {
 	color: 	#ff34b3;
 	width: 500px;
 	padding-bottom: 10px;
-	margin-left: 1000px;
+	margin-left: 1020px;
 	margin-right: 20px;
 	text-shadow:
 	  0 0 7px #85205f,
@@ -57,4 +59,38 @@ h2 {
   20%, 24%, 55% {        
       text-shadow: none;
   }    
+}
+
+#links {
+	background-color: #2011a2;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 30px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -10px;
+	animation: flicker 2s infinite alternate;
+		box-shadow: 
+		0 0 .2rem #fff,
+        0 0 .2rem #fff,
+        0 0 2rem #bc13fe,
+        0 0 0.8rem #bc13fe,
+        0 0 2.8rem #bc13fe,
+        inset 0 0 1.3rem #bc13fe;
+}
+
+.page {
+	color: #00ccfd;
+	padding-left: 15px;
+	animation: flicker 2s infinite alternate;
+	text-shadow:
+	  0 0 7px #85205f,
+      0 0 10px 	#a32975,
+      0 0 21px 	#ff34b3,
+      0 0 42px 	#ff34b3,
+      0 0 82px 	#ff34b3,
+      0 0 92px 	#ff34b3,
+      0 0 102px #ff34b3,
+      0 0 151px #ff34b3;
 }

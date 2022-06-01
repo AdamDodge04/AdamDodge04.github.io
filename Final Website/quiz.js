@@ -16,34 +16,34 @@ function calculate() {
 	
 	result = 0;
 	
-	if (pick1.value == "5"){
+	if (pick1.value == "6,852"){
 		result = result + 1;
 	}
-	if (pick2.value == "Elden Ring"){
+	if (pick2.value == "Ryokan"){
 		result = result + 1;
 	}
-	if (pick3.value == "Watermelon"){
+	if (pick3.value == "Yokohama"){
 		result = result + 1;
 	}
-	if (pick4.value == "FromSoft"){
+	if (pick4.value == "Germany"){
 		result = result + 1;
 	}
-	if (pick5.value == "2004"){
+	if (pick5.value == "Kyoto"){
 		result = result + 1;
 	}
-	if (pick6.value == "Here"){
+	if (pick6.value == "3,776m"){
 		result = result + 1;
 	}
-	if (pick7.value == "True"){
+	if (pick7.value == "Yes"){
 		result = result + 1;
 	}
-	if (pick8.value == "Personal Computer"){
+	if (pick8.value == "320kmph"){
 		result = result + 1;
 	}
-	if (pick9.value == "Skiing"){
+	if (pick9.value == "Tempura"){
 		result = result + 1;
 	}
-	if (pick10.value == "17 years"){
+	if (pick10.value == "2001"){
 		result = result + 1;
 	}
 	

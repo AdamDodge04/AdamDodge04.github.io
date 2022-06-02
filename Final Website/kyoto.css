@@ -39,3 +39,9 @@ body {
 	text-align: center;
 	font-size: 30px;
 }
+
+#img {
+	margin-left: 700px;
+	margin-top: 20px;
+	border: 2px solid #010540;
+}

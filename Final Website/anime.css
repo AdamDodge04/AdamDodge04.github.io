@@ -34,3 +34,15 @@ body {
 	margin-top: 20px;
 	border: 8px solid #901f3b;
 }
+
+#content {
+	color: #604890;
+	font-size: 30px;
+	text-align: center;
+}
+
+#img {
+	margin-left: 800px;
+	margin-top: 20px;
+	border: 2px solid #A860A8;
+}
